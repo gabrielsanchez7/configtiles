@@ -5,3 +5,4 @@ Servers/
 .settings/
 target/
 .project
+.classpath
